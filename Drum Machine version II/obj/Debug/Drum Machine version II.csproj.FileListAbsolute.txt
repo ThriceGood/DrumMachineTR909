@@ -1,0 +1,20 @@
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\bin\Debug\Drum Machine version II.exe.config
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\bin\Debug\Drum Machine version II.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\bin\Debug\Drum Machine version II.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum Machine version II.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum_Machine_version_II.Form1.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum_Machine_version_II.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum Machine version II.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum Machine version II.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\obj\Debug\Drum Machine version II.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II\Drum Machine version II\bin\Debug\irrKlang.NET4.dll
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\bin\Debug\Drum Machine version II.exe.config
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum Machine version II.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum Machine version II.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\bin\Debug\Drum Machine version II.exe
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\bin\Debug\Drum Machine version II.pdb
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\bin\Debug\irrKlang.NET4.dll
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum Machine version II.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum_Machine_version_II.Form1.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum_Machine_version_II.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\college\programming\Visual Studio\Drum Machine version II 909\Drum Machine version II\obj\Debug\Drum Machine version II.csproj.GenerateResource.Cache
