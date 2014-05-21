@@ -1,6 +1,8 @@
 DrumMachineTR909
 ================
 
+Visual Studio
+
 C# WinForm TR-909 application
 
 
